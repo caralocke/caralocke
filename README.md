@@ -30,6 +30,9 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
+## My GitHub stats:
+[![Cara's GitHub stats](https://github-readme-stats.vercel.app/api?username=caralocke)](https://github.com/caralocke/github-readme-stats)
+
 ### Get in contact with me:
 [LinkedIn](https://www.linkedin.com/in/cara-locke/) <br>
 [Email](cara.m.locke@gmail.com) <br>
