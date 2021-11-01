@@ -32,6 +32,7 @@
 
 ## My GitHub stats:
 [![Cara's GitHub stats](https://github-readme-stats.vercel.app/api?username=caralocke)](https://github.com/caralocke/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caralocke&theme=buefy&layout=compact" />
 
 ### Get in contact with me:
 [LinkedIn](https://www.linkedin.com/in/cara-locke/) <br>
