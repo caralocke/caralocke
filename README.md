@@ -31,6 +31,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 ### Get in contact with me:
--[LinkedIn](https://www.linkedin.com/in/cara-locke/) <br>
--[Email](cara.m.locke@gmail.com) <br>
--[Portfolio](https://portfolio-website-q5nwu0ru1-caralocke.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/cara-locke/) <br>
+[Email](cara.m.locke@gmail.com) <br>
+[Portfolio](https://portfolio-website-q5nwu0ru1-caralocke.vercel.app/) <br>
+[Twitter](https://twitter.com/CaraLocke6)
