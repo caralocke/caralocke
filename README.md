@@ -2,11 +2,7 @@
 
 I'm a software engineer that's always excited to see what I can help create next! 
 
-**Languages and Tools:** 
-<p align="left">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-  
-</p>
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -20,9 +16,9 @@ I'm a software engineer that's always excited to see what I can help create next
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![SQLite3](https://img.shields.io/badge/SQLite3-SQLite3-green)
+  ![SQLite3](https://img.shields.io/badge/-SQLite3-green)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostgreSQL-blue)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
