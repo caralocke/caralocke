@@ -3,7 +3,8 @@
 ### About me:
 - I'm a software engineer that's always excited to see what I can help create next!
 - I'm always working on finding new ways to advance my skills to the next level.
-- I'm a huge animal lover so I'd love to be able to work on something to help people adopt animals that need loving homes and help lessen the strain on local pounds.
+- I have an extensive background in customer service in the technological field.
+- I'm admittedly a huge "gamer nerd" (along with my husband). We love playing various kinds games from MMORPG's (like World of Warcraft) to FPS games (like CS 1.6/GO and Valorant).
 
 
 
