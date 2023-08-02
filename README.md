@@ -32,7 +32,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 ## My GitHub stats:
-[![Cara's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caralocke)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caralocke)
+[![Cara's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caralocke)](hhttps://github.com/caralocke/readme-stats-URL/)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caralocke&theme=buefy&layout=compact" />
 
 ### Get in contact with me:
