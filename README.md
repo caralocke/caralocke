@@ -32,8 +32,8 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 ## My GitHub stats:
-[![Cara's GitHub stats](github-readme-stats-w3be.vercel.app)]
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caralocke&theme=buefy&layout=compact" />
+[![Cara's GitHub stats](github-readme-stats-w3be-caralocke.vercel.app)]
+<img height="180em" src="https://github-readme-stats-w3be-caralocke.vercel.app/api/top-langs/?username=caralocke&theme=buefy&layout=compact" />
 
 ### Get in contact with me:
 [LinkedIn](https://www.linkedin.com/in/cara-locke/) <br>
