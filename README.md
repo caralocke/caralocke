@@ -20,9 +20,9 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![SQLite3](https://img.shields.io/badge/-SQLite3-green)
+  ![SQLite3]([https://img.shields.io/badge/-SQLite3-green](https://img.shields.io/badge/-SQLite3-333333?style=flat&logo=SQLite))
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+  ![PostgreSQL]([https://img.shields.io/badge/-PostgreSQL-blue](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL))
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
